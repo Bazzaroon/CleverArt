@@ -6,7 +6,7 @@
 </head>
 
 <body>
-    <h1>Trials and tribulations  and tests<h1>
+    <h1>Trials and tribulations or tests<h1>
             <?php
             phpinfo();
             ?>
